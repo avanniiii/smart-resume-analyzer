@@ -19,8 +19,6 @@ An NLP-powered web application that compares a resume with a job description and
 - Shows missing keywords
 - Interactive UI with progress bar
 
-## 📷 Screenshot
-(Add screenshot here later)
 
 ## 🔗 GitHub Repository
 https://github.com/avanniiii/smart-resume-analyzer
